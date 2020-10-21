@@ -1,4 +1,4 @@
-# Srilanka user Information finder from (GVMT website url)/myVoterRegistration.aspx
+# Srilanka user Information finder from (url)/myVoterRegistration.aspx
 
 Paste this code into your browser console.
 
